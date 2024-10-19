@@ -67,3 +67,12 @@ h2 {
   font-size: 10px;
   color: darkgray;
 }
+
+.err {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: "Bodoni MT";
+  background: beige;
+  margin-top: 50px;
+}
